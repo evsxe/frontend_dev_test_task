@@ -1,6 +1,6 @@
 # frontend_dev_test_task
 
-![Liquid chart plugin in Chart Picker]()
+![Liquid chart plugin in Chart Picker](https://github.com/evsxe/frontend_dev_test_task/blob/main/images/liquid.png?raw=true)
 
 ### Usage
 
